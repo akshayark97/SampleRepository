@@ -7,6 +7,7 @@ public class PrintString {
 		
 		
 		System.out.println("Hello welcome");
+		System.out.println("Hello this is the new line");
 	}
 
 }
